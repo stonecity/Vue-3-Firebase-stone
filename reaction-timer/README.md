@@ -9,6 +9,7 @@ npm install
 ```
 npm run serve
 ```
+SET NODE_OPTIONS=--openssl-legacy-provider && 
 
 ### Compiles and minifies for production
 ```
